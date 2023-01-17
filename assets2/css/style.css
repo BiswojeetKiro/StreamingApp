@@ -199,7 +199,7 @@ html {
   margin-inline: auto;
   margin: auto; /* fallback for margin-inline */
   padding: 0 15px;
-  background-color: rgb(15, 15, 15);
+  background-color: rgb(14, 14, 14);
 }
 
 .container p {
@@ -396,7 +396,7 @@ header .btn-group {
 .hero1 {
   position: relative;
   width: 100%;
-  background-color: rgb(15, 15, 15);
+  background-color: rgb(14, 14, 14);
 }
 
 .hero1 img {
