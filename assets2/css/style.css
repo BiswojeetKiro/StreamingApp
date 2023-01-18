@@ -579,8 +579,8 @@ text-align: center;
 
 .blog-card {
   background: var(--background-primary);
-  padding: 10px;
-  margin-bottom: 1rem;
+  padding: 5px;
+  /* margin-bottom: 1rem; */
   border-radius: 10px;
   box-shadow: 0 10px 10px hsla(0, 0%, 0%, 0.05);
   transition: 0.25s ease;
