@@ -40,11 +40,11 @@
    * dark theme colors 
    */
 
-  --background-primary: hsl(218, 23%, 23%);
+  --background-primary: rgb(14, 14, 14);
   --background-secondary: hsl(220, 26%, 14%);
 
   --action-primary: hsl(216, 15%, 52%);
-  --action-secondary: hsl(218, 23%, 23%);
+  --action-secondary: rgb(14, 14, 14);
 
   --foreground-primary: hsl(210, 38%, 95%);
   --foreground-secondary: hsl(211, 25%, 84%);
